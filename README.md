@@ -9,7 +9,7 @@ Weakly supervised temporal action localization (WS-TAL) is a task of targeting a
 
 ## Prerequisites
 ### Requirements and Dependencies:
-Here we list our used requirements and dependencies.
+Here we list our used requirements and dependencies (All of the packages require the latest version).
  - Linux: Ubuntu 22.04 LTS
  - GPU: GeForce RTX 4090
  - CUDA: 11.8
