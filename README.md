@@ -22,5 +22,5 @@ Here we list our used requirements and dependencies.
 You can get access of the dataset from [Google Drive](https://drive.google.com/file/d/1SFEsQNLsG8vgBbqx056L9fjA4TzVZQEu/view?usp=sharing) or [Baidu Disk](https://pan.baidu.com/s/1nspCSpzgwh5AHpSBPPibrQ?pwd=2dej). The annotations are included within this package.
 
 ### Source code
-Part of the core code is open-source. The rest will be open soon.
+The code will be open soon.
 
